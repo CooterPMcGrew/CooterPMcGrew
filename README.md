@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Cooter McGrew
 
-Welcome to my GitHub! I’m an **Electrical Engineer**, **Researcher**, and **Technologist** with a passion for end-to-end system design, hardware-software integration, and cutting-edge innovation. My career spans diverse domains, including **FPGA/ASIC development**, **digital signal processing (DSP)**, **AI/ML optimization**, and **RF systems**. I thrive at the intersection of hardware, firmware, and software, delivering latency-optimized solutions for complex problems.
+Welcome to my GitHub! I’m an **Electrical Engineer**, **Researcher**, and **Technologist** with a passion for end-to-end system design, hardware-software integration, and cutting-edge innovation. My career spans diverse domains, including **FPGA/ASIC development**, **digital signal processing (DSP)**, **AI/ML optimization**, and **RF systems**. 
 
 ---
 
