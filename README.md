@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m an **Electrical Engineer**, **Researcher**, and **Te
 
 ## 🛠 **Tech Stack**
 - **Languages**: Python, C, Rust, Verilog, VHDL, MATLAB  
-- **Hardware Tools**: Xilinx Vivado, Quartus, HFSS, LTspice  
+- **Hardware Tools**: Xilinx Vivado, Quartus, HFSS, LTspice, Altium  
 - **Software Development**: Docker, Kubernetes, Git, SageMaker, TensorFlow, PyTorch  
 - **Specialties**: FPGA design, ASIC design, RF signal integrity, low-latency networking  
 
@@ -33,9 +33,5 @@ Welcome to my GitHub! I’m an **Electrical Engineer**, **Researcher**, and **Te
 - **LinkedIn**: [linkedin.com/in/cooter-mcgrew](https://linkedin.com/in/cooter-mcgrew)  
 - **Ham Radio**: KC3ZRV  
 
----
-
-### 📝 **About Me**
-I’m a lifelong learner with a deep appreciation for engineering challenges and a strong drive to innovate. Whether it's building high-frequency systems, solving complex math problems, or exploring quantum computing applications, I’m always looking for the next opportunity to push boundaries.
 
 
