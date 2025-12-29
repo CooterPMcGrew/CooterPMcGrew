@@ -1,17 +1,11 @@
-# 👋 Hi, I’m Cooter McGrew
-
-Welcome to my GitHub! I’m an **Electrical Engineer**, **Researcher**, and **Technologist** with a passion for end-to-end system design, hardware-software integration, and cutting-edge innovation. My career spans diverse domains, including **FPGA/ASIC development**, **digital signal processing (DSP)**, **AI/ML optimization**, and **RF systems**. 
-
----
-
 ## 🔧 **What I Do**
 - **End-to-End DSP Workflows**: Designing FPGA/ASIC systems optimized for high-speed, real-time DSP applications.
 - **AI and Machine Learning**: Developing latency-aware, multimodal neural network optimizers using **genetic algorithms** and NEAT-like methodologies.
 - **Hardware Acceleration**: Leveraging analog computing for high-performance tasks and integrating systems with real-time operating systems (RTOS).
 - **Sensor Fusion**: Pioneering novel sensor fusion techniques to enhance real-time data processing and system scalability.
 - **Reverse Engineering**: Conducting hardware and software analysis to uncover functionality and improve performance.
-- **Quantum Research**
 
+- 
 ---
 
 ## 🛠 **Tech Stack**
@@ -22,16 +16,6 @@ Welcome to my GitHub! I’m an **Electrical Engineer**, **Researcher**, and **Te
 
 ---
 
-## 🚀 **Featured Projects**
-- **GenetiNet Multimodal NN Optimizer**: A NEAT-inspired optimization framework for multimodal neural networks, reducing system latency while maintaining performance.
-
-
----
-
-## 📫 **Let’s Connect**
-- **Email**: [cooterpmcgrew@gmail.com](mailto:cooterpmcgrew@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/cooter-mcgrew](https://linkedin.com/in/cooter-mcgrew)  
-- **Ham Radio**: KC3ZRV  
 
 
 
